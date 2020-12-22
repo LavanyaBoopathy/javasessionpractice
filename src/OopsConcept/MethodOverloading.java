@@ -29,7 +29,8 @@ method.
 
 public void sum()
 {
-	System.out.println("sum method-->zero parameter");
+	System.out.println("sum method-->zero parameter-- ");
+	System.out.println("edited bby jagan");
 
 }
 public void sum(int i)
