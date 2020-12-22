@@ -11,7 +11,7 @@ public class ConstructorConcept {
 	
 	public ConstructorConcept()
 	{
-	System.out.println("default constructor");
+	System.out.println("default ******constructor");
 	}
 	public ConstructorConcept(int x)
 	{
